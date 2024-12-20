@@ -42,7 +42,7 @@ jobs:
       # TODO：若 “仓库无前缀名” 是.github.io结尾，则设置为"/"
       - name: 配置 - 获取仓库配置
         id: config1 # 用于给其他步骤引用
-        working-directory: ./src/scripts/
+        working-directory: ./scripts/
         run: |
           echo "{" >> git_config.json
           echo "  \"GITHUB_WORKSPACE\": \"${GITHUB_WORKSPACE}\"," >> git_config.json                  # 工作路径
