@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://PKM-er.github.io/Pkmer-Math/sitemap.xml
+Sitemap: https://LincDocs.github.io/Pkmer-Math/sitemap.xml
