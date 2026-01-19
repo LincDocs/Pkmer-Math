@@ -3,8 +3,9 @@
     "cyletix-pdf-reverse",
     "cyletix-md-icon",
     "cyletix-appendix-icon",
+    "cyletix-folder-arrow",
     "hide-embed-props"
   ],
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Vanilla AMOLED",
   "theme": "obsidian"
 }
